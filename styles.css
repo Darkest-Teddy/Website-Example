@@ -1,0 +1,11 @@
+html {
+    background-color: bisque;
+}
+
+img, video {
+    height: auto;
+    max-width: 100%;
+    border: solid;
+    border-color: black;
+}
+
